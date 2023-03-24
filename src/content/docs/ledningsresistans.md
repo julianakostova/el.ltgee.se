@@ -45,15 +45,15 @@ Tvärsnittsarea på kablar är hur många mm² som ledaren har om du sågar av d
 För att överföra elektrisk ström så använder vi ledningar. Ledaren i en kabel är den delen som är av metall oftast koppar eller aluminium. Strömmen följer ledaren hela vägen från spänningskällan till belastningen och tillbaka till spänningskällan. Det som är runt ledare som oftast är plast eller gummi kallas för isolator.
 Det är samma ord:
 
- * Företagsledning - Leder företaget framåt och vara den som alla som jobbar följer.
- * Att vara i ledningen - Att vara längst fram i ett sprinterlopp och vara den som alla följer.
+ * Företagsledning - leder företaget framåt och är den som alla som jobbar följer.
+ * Att vara i ledningen - att vara längst fram i ett sprinterlopp och vara den som alla följer.
 
 ### Isolator
 Isolator betyder att den isolerar något. I elläran är isolatorn något som isolerar så att strömmen inte kan ta sig den vägen. Det är samma betydelse som:
 
- * Värmeisolering - Att hålla isär värme och kyla inne och ute ur ett hus.
- * Isolercell - Att hålla en person isär från alla andra genom att sätta denna i en egen cell.
- * Social isolering - Att hållas isär från andra människor genom att inte prata med dem till exempel.
+ * Värmeisolering - att hålla isär värme och kyla inne och ute ur ett hus.
+ * Isolercell - att hålla en person isär från alla andra genom att sätta denna i en egen cell.
+ * Social isolering - att hållas isär från andra människor genom att inte prata med dem till exempel.
 
 ## Beräkningar
 För att räkna ut ledningsressistansen i rumstemperatur så används följande formel:  
