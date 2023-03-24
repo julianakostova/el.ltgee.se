@@ -20,10 +20,10 @@ Om kabeln är tjockare, har större tvärsnittsarea, så kommer resistansen att 
 lång kö som går sakta. Men om det är många kassor öppna så blir det många köer då får fler mat snabbare. Då kan det flöda igenom fler personer snabbare. På samma sätt så kan strömmen komma igenom snabbare när det är större tvärsnittsarea eftersom flera elektroner kan komma igenom brevid varandra i stället för att så i en lång kö.
 
 ### Material
-Olika meterial är olika bra på att leda koppar är bättre än guld t.ex. och Silver är bättre än koppar. Det beror på att atomerna i de olika materialen har olika antal elektroner runt sig som kan hoppa vidare till nästa atom olika lätt. I [tabellen](#beräkningar) längre ner kan du se olika ledares resistans per meter.
+Olika meterial är olika bra på att leda koppar är bättre än guld t.ex. och silver är bättre än koppar. Det beror på att atomerna i de olika materialen har olika antal elektroner runt sig som kan hoppa vidare till nästa atom olika lätt. I [tabellen](#beräkningar) längre ner kan du se olika ledares resistans per meter.
 
 ### Temperatur
-Högre temperatur ger högre resistans och lägre temperatur ger lägre resistans. När ett material har högre temperatur så är atomerna längre ifrån varandra det gör att det är långt för elektroner att hoppa mellan atomerna. Dessa långa hopp gör att resistansen ökar när temperaturen ökar. 
+Högre temperatur ger högre resistans och lägre temperatur ger lägre resistans. När ett material har högre temperatur så är atomerna längre ifrån varandra och det gör att det är långt för elektroner att hoppa mellan atomerna. Dessa långa hopp gör att resistansen ökar när temperaturen ökar. 
 
 ### Exempel
 
@@ -45,15 +45,15 @@ Tvärsnittsarea på kablar är hur många mm² som ledaren har om du sågar av d
 För att överföra elektrisk ström så använder vi ledningar. Ledaren i en kabel är den delen som är av metall oftast koppar eller aluminium. Strömmen följer ledaren hela vägen från spänningskällan till belastningen och tillbaka till spänningskällan. Det som är runt ledare som oftast är plast eller gummi kallas för isolator.
 Det är samma ord:
 
- * Företagsledning - Leder företaget framåt och vara den som alla som jobbar följer.
- * Att vara i ledningen - Att vara längst fram i ett sprinterlopp och vara den som alla följer.
+ * Företagsledning - leder företaget framåt och ska vara den som alla som jobbar följer.
+ * Att vara i ledningen - att vara längst fram i ett sprinterlopp och vara den som alla följer.
 
 ### Isolator
 Isolator betyder att den isolerar något. I elläran är isolatorn något som isolerar så att strömmen inte kan ta sig den vägen. Det är samma betydelse som:
 
- * Värmeisolering - Att hålla isär värme och kyla inne och ute ur ett hus.
- * Isolercell - Att hålla en person isär från alla andra genom att sätta denna i en egen cell.
- * Social isolering - Att hållas isär från andra människor genom att inte prata med dem till exempel.
+ * Värmeisolering - att hålla isär värme och kyla inne och ute ur ett hus.
+ * Isolercell - att hålla en person isär från alla andra genom att sätta denna i en egen cell.
+ * Social isolering - att hållas isär från andra människor genom att inte prata med dem till exempel.
 
 ## Beräkningar
 För att räkna ut ledningsressistansen i rumstemperatur så används följande formel:  
