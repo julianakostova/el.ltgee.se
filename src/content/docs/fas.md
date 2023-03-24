@@ -6,7 +6,7 @@ weight: 11
 # Fasförskjutning
 ![Fasförskjutning](/fasf.png)
 
-Fasförskjutning är när strömmen och spänningen inte går i takt. Som i bilen ovan så har ström och spänning sina topp och botten värden vid olika tidpunkter. När ström och spänningn inte går i takt så fungerar inte Effekt-formeln och Ohms lag som vanligt längre.
+Fasförskjutning är när strömmen och spänningen inte går i takt. Som i bilden ovan så har ström och spänning sina topp och botten värden vid olika tidpunkter. När ström och spänningn inte går i takt så fungerar inte Effekt-formeln och Ohms lag som vanligt längre.
 
 ## Induktiv
 När du kopplar in en spole i en krets så kommer strömmen att komma efter spänningen. Det beror på att magnetfältet som skapas i spolen bromsar strömmen. På bilden så kan du se hur strömmen (blå) kommer efter spänningen (röd).
